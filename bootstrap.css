@@ -1,0 +1,108 @@
+  
+  body {
+    background: #e9e9e9;
+  }
+
+  #myNavbar {
+    background: #fff;
+    color: lightgray;
+  }
+
+  #brandName {
+      color: #fff;
+    }
+
+    h2 {
+        color: #fff;
+        background: #59AAA5;
+        margin: auto;
+        padding: 30px;
+    }
+
+    .navbar-centered .navbar-nav {
+        float: none;
+        text-align: center;
+    }
+    .navbar-centered .navbar-nav > li {
+        float: none;
+    }
+    .navbar-centered .nav > li {
+        display: inline;
+    }
+    .navbar-centered .nav > li > a {
+        display: inline-block;
+    }
+    #aboutMe {
+      background: #fff;
+      width: 700px;
+      border: 1px solid lightgray;
+      margin: 51px;
+      margin-bottom: 300px;
+  }
+    #title {
+        color: #59AAA5;
+        text-align: left;
+    }
+    hr {
+        color: lightgray;
+    }
+    .copyright {
+        background: gray;
+        height: 97px;
+        border-top: 8px solid #59AAA5;
+    }
+ .navbar-default .navbar-brand {
+    color: white;
+    background: #59AAA5;
+    margin-left: 34px;
+}
+h3 {
+  color: #59AAA5;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 34px;
+}
+
+.col-md-2 {
+    width: 50%;
+}
+.centered {
+  position: absolute;
+  top: 78%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  background: #59AAA5;
+  width: 304px;
+  height: 41px;
+  text-align: center;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #59AAA5;
+  margin: unset;
+  margin-bottom: 20px;
+}
+
+.form-control {
+  display: block;
+  width: 650px;
+  padding: 6px 12px;
+  font-size: 14px;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+  -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+small {
+  color: lightgray;
+}
